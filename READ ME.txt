@@ -1,0 +1,6 @@
+The main MATLAB function is BAI.m, where all algorithms are simulated.
+
+Lasso-OD algorithm is in BAI.m.
+
+See draw... scripts in Plots folder to re-generate the plots. The data points for each example are saved in that folder. 
+
